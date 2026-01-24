@@ -1,16 +1,16 @@
 # SMART-HOME-CONTROLLER
 Smart Home Controller
 
-Author: Leslie Foncham Mbunda
-Year: 2025
-School: Savonia University of Applied Sciences
-Course: Orientation Projects
+#Author: Leslie Foncham Mbunda
+#Year: 2025
+#School: Savonia University of Applied Sciences
+#Course: Orientation Projects
 
-Project Overview
+##Project Overview
 
 The Smart Home Controller is a student project designed to manage and automate home devices efficiently. The system enables users to control lighting, temperature, security systems, and other smart appliances from a centralized interface. This project demonstrates practical application of IoT (Internet of Things) concepts and basic automation logic.
 
-Features
+#Features
 
 Device Control: Turn devices on/off and adjust settings.
 
